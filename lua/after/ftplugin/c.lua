@@ -1,0 +1,3 @@
+-- vim.cmd("setlocal noexpandtab") -- Use the real tab instead of spaces for indent
+-- vim.cmd("setlocal tabstop=4") -- tab vitually as 4 space len
+-- vim.cmd("setlocal shiftwidth=4") -- same as above, but for the beginning of a line
