@@ -8,5 +8,10 @@ return {
       colorscheme = "gruvbox",
     },
   },
+
+ -- Show cursor blink
   { "danilamihailov/beacon.nvim", enabled = true, event = "BufRead" },
+
+-- Center contents
+  { {"shortcuts/no-neck-pain.nvim", version = "*"} }
 }
