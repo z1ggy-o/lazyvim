@@ -12,5 +12,5 @@ opt.tabstop = 4
 opt.shiftwidth = 4
 opt.expandtab = false -- Use tab by default, the Linux style (this is not work, I don't know why. maybe overwritten by the default c ftplugin?)
 
-opt.foldexpr = 'v:lua.vim.treesitter.foldexpr()'
-opt.foldmethod = 'expr'
+-- opt.foldexpr = 'v:lua.vim.treesitter.foldexpr()'
+-- opt.foldmethod = 'expr'
