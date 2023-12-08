@@ -1,0 +1,2 @@
+-- to enable sementic tokens
+-- vim.cmd("autocmd BufEnter,TextChanged <buffer> lua require 'vim.lsp.buf'.semantic_tokens_full()")
